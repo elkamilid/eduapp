@@ -63,7 +63,7 @@ const Features: React.FC = () => {
       <div className="container mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center mb-16">
           <h2 className="text-4xl font-bold text-gray-900 mb-4">
-            Mengapa Memilih <span className="text-blue-600">Elkamil Digital Global</span>?
+            Mengapa Memilih <span className="text-blue-600">Elkamil Digital</span>?
           </h2>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
             Platform yang dirancang khusus untuk memenuhi kebutuhan unik setiap institusi pendidikan

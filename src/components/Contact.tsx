@@ -57,7 +57,7 @@ const Contact: React.FC = () => {
     {
       icon: Mail,
       title: 'Email',
-      content: 'info@elkamildigitalglobal.com',
+      content: 'info@elkamildigital.com',
       subtitle: 'Respon dalam 24 jam'
     },
     {
@@ -272,7 +272,7 @@ const Contact: React.FC = () => {
 
             <div className="bg-white rounded-2xl shadow-lg p-8">
               <h4 className="text-xl font-semibold text-gray-900 mb-4">
-                Mengapa Memilih Elkamil Digital Global?
+                Mengapa Memilih Elkamil Digital?
               </h4>
               <div className="space-y-4 text-gray-600">
                 <div className="flex items-start space-x-3">

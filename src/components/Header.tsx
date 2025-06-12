@@ -31,7 +31,7 @@ const Header: React.FC = () => {
             <div className="bg-blue-600 p-2 rounded-lg">
               <GraduationCap className="h-6 w-6 text-white" />
             </div>
-            <span className="text-2xl font-bold text-gray-900">Elkamil Digital Global</span>
+            <span className="text-2xl font-bold text-gray-900">Elkamil Digital</span>
           </div>
 
           <nav className="hidden md:flex items-center space-x-8">
