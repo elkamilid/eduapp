@@ -36,7 +36,7 @@ const Portfolio: React.FC = () => {
     {
       name: 'Dr. Siti Nurhaliza',
       position: 'Kepala Sekolah SMA Negeri 1 Jakarta',
-      content: 'EduWebPro sangat membantu kami dalam mengelola administrasi sekolah. Sistem yang user-friendly dan support yang responsif.',
+      content: 'Elkamil Digital sangat membantu kami dalam mengelola administrasi sekolah. Sistem yang user-friendly dan support yang responsif.',
       rating: 5
     },
     {

@@ -53,7 +53,7 @@ const Footer: React.FC = () => {
               <div className="bg-blue-600 p-2 rounded-lg">
                 <GraduationCap className="h-6 w-6 text-white" />
               </div>
-              <span className="text-2xl font-bold">Elkamil Digital Global</span>
+              <span className="text-2xl font-bold">Elkamil Digital</span>
             </div>
             
             <p className="text-gray-300 mb-6 leading-relaxed">
@@ -65,7 +65,7 @@ const Footer: React.FC = () => {
             <div className="space-y-3">
               <div className="flex items-center space-x-3 text-gray-300">
                 <Mail className="h-5 w-5 text-blue-400" />
-                <span>info@elkamildigitalglobal.com</span>
+                <span>info@elkamildigital.com</span>
               </div>
               <div className="flex items-center space-x-3 text-gray-300">
                 <Phone className="h-5 w-5 text-blue-400" />
@@ -126,7 +126,7 @@ const Footer: React.FC = () => {
           <div className="grid md:grid-cols-2 gap-8 items-center">
             <div>
               <h3 className="text-xl font-semibold mb-2">
-                Newsletter Elkamil Digital Global
+                Newsletter Elkamil Digital
               </h3>
               <p className="text-gray-300">
                 Dapatkan update terbaru tentang fitur, tips, dan tren teknologi pendidikan.
@@ -149,7 +149,7 @@ const Footer: React.FC = () => {
         <div className="border-t border-gray-800 mt-8 pt-8">
           <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
             <div className="text-gray-300">
-              © 2024 Elkamil Digital Global. All rights reserved. | 
+              © 2024 Elkamil Digital. All rights reserved. | 
               <button className="mx-2 hover:text-white transition-colors">Privacy Policy</button> | 
               <button className="mx-2 hover:text-white transition-colors">Terms of Service</button>
             </div>
